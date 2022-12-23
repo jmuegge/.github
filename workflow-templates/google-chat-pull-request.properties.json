@@ -1,0 +1,4 @@
+{
+  "name": "Google Chat Pull Request Action",
+  "description": "Reacts to pull_request events, and sends messages to webhook."
+}
